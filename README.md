@@ -50,4 +50,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Social Profile :
+ **Final comment**
+Thank you guys for reading the blog, hope this project is useful for some of you aspiring to do projects on Python tkinter.
+And if you have any doubts regarding this project, please leave a comment in the response section.
 Find me on LinkedIn: [www.linkedin.com/in/nishit-shivdasani](https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237)
