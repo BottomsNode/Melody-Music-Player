@@ -48,3 +48,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Social Profile :
+Find me on LinkedIn: [www.linkedin.com/in/nishit-shivdasani](https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237)
