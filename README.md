@@ -59,7 +59,7 @@ python melody_music_player.py
 
 ## Support
 
-For support, please contact [your email address] or open an issue on GitHub: https://github.com/BottomsNode/Melody-Music-Player
+For support, please contact - open an issue on GitHub: https://github.com/BottomsNode/Melody-Music-Player
 
 ## Future Enhancements
 
